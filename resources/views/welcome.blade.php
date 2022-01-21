@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Venkata Sandeep Kumar Karamsetty</title>
+        <title>Venkata Sandeep Kumar Karamsetty's</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -38,7 +38,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-center sm:pt-0">
-                    <b class="mt-2 text-gray-600 dark:text-gray-400 text-sm">Venkata Sandeep Kumar. Karamsetty</b>
+                    <b class="mt-2 text-gray-600 dark:text-gray-400 text-sm">Venkata Sandeep Kumar. Karamsetty's</b>
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
